@@ -1,20 +1,20 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website to share experiences to the world
+title: My blog about Backcountry, Web Development and Music
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Chago Urrutia
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Links:
+    - Ski Blisters: "https://github.com/santiagourrutiam/ski-blisters"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -186,7 +186,7 @@ defaults:
       readtime: false # add estimated reading time on all blog posts
   -
     scope:
-      path: "" # all files
+      path: "/" # all files
     values:
       layout: "page"
       show-avatar: true
