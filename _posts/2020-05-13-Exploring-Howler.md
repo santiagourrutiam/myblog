@@ -2,7 +2,7 @@
 layout: post
 title: Exploring Howler and Mid Howler trails.
 subtitle: Afternoon in the alpine
-tags: [bike trails, whistler, alpine meadows, shit happens, annal intruder]
+tags: [bike trails, whistler, alpine meadows, shit happens]
 ---
 
 {% leaflet_map {
@@ -11,7 +11,6 @@ tags: [bike trails, whistler, alpine meadows, shit happens, annal intruder]
     "center" : [50.14, -122.96] } %}
 
     {% leaflet_geojson 
-    
     {
       "type": "Feature",
       "properties": {
@@ -4340,9 +4339,6 @@ tags: [bike trails, whistler, alpine meadows, shit happens, annal intruder]
         ]
       }
     }
-      %}
-    
-  
-
+  %}
 
 {% endleaflet_map %}
