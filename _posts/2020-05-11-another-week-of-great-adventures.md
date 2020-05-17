@@ -4,6 +4,7 @@ title: Another Week of Great Adventures
 subtitle: Daytrip to Horseshoe Bay Squamish and the bike trails
 tags: [Half Nelson, Full Nelson, Squamish]
 ---
+
 ## Whistler to Horseshoe Bay and then to the Squamish bike trails.
 <img src="{{site.baseurl}}/assets/img/squamishtrails_/20200506_160609.jpg" />
 
