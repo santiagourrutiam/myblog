@@ -79,3 +79,6 @@ module.exports = { User }
 
 Now let's test it running nodemon server.js
 
+## Comparing passwords ##
+    
+
