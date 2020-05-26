@@ -23,6 +23,8 @@ Requirements:
 - MongoDB (@4.2) - [How to install mongoDB](https://www.mongodb.com/download-center/community)
 - express (@5.9.15)
 
+ExpressJS is a framework package that streamlines the NodeJS development process and provides a ‘server-like’ setup on the backend. When we say "framework", think along the lines of Wordpress, but for application development. It will create a folder template for us to use, set up our Node server and JavaScript files for us, and give us a location in which we can create content. We can then go in and customize as we see fit for our application.
+
 ## Directory structure ## 
 
 ```
@@ -50,7 +52,7 @@ Requirements:
 
 2) ``` /nidipserver > npm install bcrypt@4.0.1  body-parser@1.18.2 concurrently@3.5.1 cookie-parser@1.4.3```
 
-3) Let's install express and jsonwebtoken
+3) Let's install express, jsonwebtoken, moment-js and mongoose (Mongoose is a driver that Node.js uses to talk to MongoDB)
     ``` /nidipserver > npm install express@4.16.2 jsonwebtoken@8.0.1 moment-js@1.11.15 mongoose@5.9.15 --save ```
 
 *** If you are learning react it's very likely that you have installed the create-react-app package, if not type the following inside at the root directory:**
