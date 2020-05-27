@@ -9,19 +9,23 @@ tags: [nodeJS, Javascript, mongoose, mongoDB]
 
 In this series of episodes I will be describing the steps to build a proyect with the following elements:
 
-1) React Client: This client will be running on port 3000 and querying the server
+1) **React Client**: This client will be running on port 3001 querying the server on port 3000.
 
-2) NodeJS server: The server will control the logic and interaction with our MongoDB database
+2) **Node.js server**: The server will control the logic and interaction with our MongoDB database
 
-3) MongoDB: The database will store a collection of geofeatures (Avalanche areas, Ski touring routes, Local areas, Ski shops and chilean volcanos with their proper description of important variables to take desitions before going to the backcountry)
+3) **MongoDB**: The database will store a collection of geofeatures (Avalanche areas, Ski touring routes, Local areas, Ski shops and chilean volcanos with their proper description of important variables to take desitions before going to the backcountry)
 
 The area in the world that I've selected to populate with data about is Malalcahuello, one of my favourite places on earth that I have had the luck to explore for quite a few years until now. I'm stoked to share this project with you and I do really hope that more than one backcountry skier that needs info about the zone gets it throught this app.
 
 ## Installation ##
 Requirements:
-- NodeJS (@12.16.1) - [Install node](https://nodejs.org/es/download/)
-- MongoDB (@4.2) - [How to install mongoDB](https://www.mongodb.com/download-center/community)
-- express (@5.9.15)
+- NodeJS (@12.16.1) - [Install Node.js](https://nodejs.org/es/download/){:target="_blank"}
+- MongoDB (@4.2) - [How to install mongoDB](https://www.mongodb.com/download-center/community){:target="_blank"}
+- express (@4.17.1) ```npm install express@4.17.1 ```
+- Robo 3T 1.3.1 [Install Robo 3T](https://robomongo.org/download){:target="_blank"}
+
+_Node.js_: The installation is really straightforward, just make sure to download the right installer for for your platform and follow the installation until the confirmation. If you select the custom install, double check that you have selected npm (_node package Manager_)
+*Windows users will be asked to install Python and Chocolatey.
 
 ExpressJS is a framework package that streamlines the NodeJS development process and provides a ‘server-like’ setup on the backend. When we say "framework", think along the lines of Wordpress, but for application development. It will create a folder template for us to use, set up our Node server and JavaScript files for us, and give us a location in which we can create content. We can then go in and customize as we see fit for our application.
 
