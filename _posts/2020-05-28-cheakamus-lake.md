@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ride bike to Cheakamus Lake
+title: Ride bike to Cheakamus Lake with Martin
 tags: [whistler trails, bike trails, enduro, chekaumus lake, garibaldi national park]
 bigimg: ./assets/img/cheakamuslake/20200527_174444.jpg
 geojsonfile: ./assets/routesjson/cheakamusroute.json
@@ -19,7 +19,6 @@ The headtrail begins south of Whistler and is approx. 11kms and mostly uphill.
                        "longitude" : -128.211329,
                        "popupContent": "Cheakamus Lake"} %} 
     {% leaflet_geojson "/assets/routesjson/cheakamusroute.json" %}
-
 {% endleaflet_map %}
 
 
