@@ -14,26 +14,6 @@ The desition to go to Cheakamus Lake was mainly due to my injury and Martin's wi
 The headtrail begins south of Whistler and is approx. 11kms and mostly uphill.
 
 
-{% leaflet_map {"zoom" : 4 } %}
-
-    {% leaflet_marker { "latitude" : 48.7596,
-                       "longitude" : -113.787,
-                       "popupContent" : "Glacier National Park, Montana"} %}
-
-    {% leaflet_geojson {
-        "type": "Feature",
-        "properties": { "popupContent": "The whole state of North Dakota",
-                        "href": "https://nd.gov" },
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": [[
-                [-104.05, 48.99],
-                [-97.22,  48.98],
-                [-96.58,  45.94],
-                [-104.03, 45.94],
-                [-104.05, 48.99] ]] } } %}
-
-{% endleaflet_map %}
 
 
 
