@@ -13,12 +13,12 @@ The desition to go to Cheakamus Lake was mainly due to my injury and Martin's wi
 The headtrail begins south of Whistler and is approx. 11kms and mostly uphill.
 
 
-{{% leaflet_map {"zoom" : 12 } %}}
+{% leaflet_map {"zoom" : 12 } %}
     {% leaflet_marker {"latitude" : 50.296184,
                        "longitude" : -123.211329,
                        "popupContent": "Cheakamus Lake"} %} 
     {% leaflet_geojson "/assets/routesjson/cheakamusroute.json" %}
-{{% endleaflet_map %}}
+{% endleaflet_map %}
 
 Some photos:
 <img src="{{site.baseurl}}/assets/img/cheakamuslake/bigtrees.jpg" />
