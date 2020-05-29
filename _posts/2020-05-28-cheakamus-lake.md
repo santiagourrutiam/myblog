@@ -3,9 +3,6 @@ layout: post
 title: Ride bike to Cheakamus Lake
 tags: [whistler trails, bike riding, enduro]
 bigimg: ./assets/img/cheakamuslake/20200527_174444.jpg
-custom_css: leaflet
-custom_js: leaflet
-
 ---
 It's been almost a week taking it easy with my body, specially my wrist movements. After the crash of last week - yes, I had a fall - I felt that I could come back easily in 2 or 3 days but the way I bent my thumb in a funky motion towards my wrist damaged the joint and it wasn't until a week after that I started gaining my confidence back. 
 Eventually, rest did his part and I felt ready to go for an easy but long trail with no jumps and big roots on the climb, berms or anything to expose my current injury, _"Cheakamus Lake"_.
