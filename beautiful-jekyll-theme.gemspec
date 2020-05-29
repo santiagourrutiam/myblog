@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+gem "jekyll-leaflet"
 Gem::Specification.new do |spec|
   spec.name          = "beautiful-jekyll-theme"
   spec.version       = "2.3.0"
