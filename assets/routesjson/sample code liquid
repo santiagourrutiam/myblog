@@ -1,0 +1,6 @@
+{% leaflet_map {"zoom" : 12 } %}
+    {% leaflet_marker {"latitude" : 50.296184,
+                       "longitude" : -123.211329,
+                       "popupContent": "Cheakamus Lake"} %} 
+    {% leaflet_geojson "/assets/routesjson/cheakamusroute.json" %}
+{% endleaflet_map %}
