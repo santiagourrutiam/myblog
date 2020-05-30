@@ -20,11 +20,13 @@ I really hope to continue on my path of learning, sharing moments with new peopl
 
 This blog has been a goal for a long time, I needed a place to store beautiful memories, photos, videos, routes, mountain adventures and other stuff that just manifest out of my motivation and personal way to express what I believe life is about. 
 
-To you, fellow human being (for you too extraterrestrial beings that might come check the earth out in a few millions years and found an underground datacenter with datacollections of data of the old internet that we are using now or to whoever lands on this supermassive blackhole of an unknown superluster of the internet), I hope you enjoy the content, stories and tutorials that you can find in my digital journal. 
+To you, fellow human being (for you too extraterrestrial beings that might come check the earth out in a few millions years and found an underground datacenter with datacollections of the old dusty internet that we now navigate), I hope you enjoy the content, stories and tutorials that you can find in my digital journal. 
 
 Don't hesitate to drop me a line if you have any feedback or thoughts.
 
 santiago.urrutia.m@gmail.com
+
+
 
 With much love, 
 Chago
