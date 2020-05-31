@@ -10,25 +10,26 @@ I work in a [remote camp in Antarctica](https://www.flickr.com/search/?text=unio
 
 ## myHobbies
 - I live for skiing in new places, my favorite method of transportation in the mountains is human powered Backcountry skiing.
-- My personal challengues are learning new coding solutions, travelling around the world and keeping an active lifestyle close to the mountains.
+- Learning new coding solutions, travelling around the world and keeping an active lifestyle close to the mountains.
 - I love music, I started playing guitar when I was 15 years old and I will never get tired of learning new chords and scales that I can apply to new compositions.
-- Since 2019 I started learning about GIS and coding solutions oriented to map geofeatures.
+- Since 2019 I started learning about GIS and coding solutions oriented to mapping geofeatures.
 
 ## myCoding
-ReactJS || MongoDB || NodeJS || PostgreSQL || Leaflet || Express || Mongoose || Python and Django Framework
+ReactJS || MongoDB || NodeJS || PostgreSQL || Leaflet || Express || Mongoose || Python and Django Framework || Jekyll
 
 ## myBriefStory
-**1985**:       Born in Santiago, Capital of chile.
-<br /> **1987**:       Family moved and took me to the south of Chile.
+**1985**:       I was born in Santiago, Capital of Chile.
+<br /> **1987**: My family moved and took me to the south of Chile.
 <br /> **1989-2003**:  Studied in 2 schools in Villarrica (Camilo Henriquez and Southern Oxford School)
-<br /> **2004-2005**:  No clue about what to do with life so started working random jobs before giving university a try
-<br /> **2006-2011**:  Studied IT Engineering at Universidad Mayor Temuco and finished the last semester in Santiago
-<br /> **2011**:       Started working for Oracle as a Support Analyst Engineer
-<br /> **2012**:       Decided to pursue a travel to Canada that would change my next years
-<br /> **2013**:       Moved to Malalcahuello after a great year in Canada where I realized how much I enjoy the outdoors instead of working in an cubicled office. This same year I worked my first season in Union Glacier Antarctica for the Antarctic Tour Operator Antarctic Logistics and Expeditions (ALE)
-<br />**2014**:       Another season working in the Tourism start up Isoterma Cero in Malalcahuello. Traveled to Canada for a 2 week instense ski touring trip in Rogers Pass, BC.
-<br />**2015 - 2018**:       More exploring around Malalcahuello, I worked on winter programs for skiers, created website for Isoterma Cero, took care of the marketing.
-<br />**2019**:       Worked on the Ocean Nova ship in the Antarctic Peninsula, one of the greatest experiences of my life in terms of wildlife watching.
-<br />**2020**:       The year of Covid19, a breaking point where we all as human citizen can choose a new reality different than what we were calling _normal_. This year I finished my Antarctic Contract with ALE and travelled to Canada, place where I am writting this blog from.
+<br /> **2004**:  After a semester studying computer engineering in La Serena, Chile I felt a bit lost and started questioning what to do with my life so I quit halfway the second semester (and played tennis everyday for my remaining time in La Serena, basically walking towards university with no intentions of getting in there).
+<br /> **2005**: Lived for a year in Santiago, Chile and worked random jobs, took some website development courses and made my first paid websites, after some time I decided to go back to study Computer Engineering.
+<br /> **2006-2011**:  Studied  IT Engineering at Universidad Mayor Temuco and finished the last semester in Santiago
+<br /> **2011**: Started working for Oracle as a Support Analyst Engineer
+<br /> **2012**: Decided to pursue a travel to Canada that would change my next years
+<br /> **2013**: Moved to Malalcahuello after a great year in Canada where I realized how much I enjoy the outdoors instead of working in an cubicled office. This same year I worked my first season in Union Glacier Antarctica for the Antarctic Tour Operator Antarctic Logistics and Expeditions (ALE)
+<br />**2014**: Started working in the Tourism start-up Isoterma Cero in Malalcahuello.Traveled back to Canada with my friends from Malalcahuello for a 2 week [Backcountry Skiing Trip](http://outdoors.cl/randoneando-en-canada-la-vida-en-rogers-pass/){:target='_blank'} around British Columbia on an RV.
+<br />**2015 - 2018**: More exploring around Malalcahuello, I worked on winter programs for skiers, created a website for Isoterma Cero, took care of the marketing.
+<br />**2019**: Worked on the Ocean Nova ship in the [Antarctic Peninsula](https://www.flickr.com/search/?text=antarctic%20peninsula){:target='_blank'}, one of the greatest experiences of my life in terms of wildlife watching.
+<br />**2020**: The year of Covid19, a breaking point where we all as human citizen can choose a new reality different than what we were calling _normal_. This year I finished my Antarctic Contract with ALE and travelled to Canada, place where I am writting this blog from.
 
 

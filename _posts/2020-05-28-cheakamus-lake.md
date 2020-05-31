@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ride bike to Cheakamus Lake.
-subtitle: 23,6kms back forth, good climb. 
+title: Bike Ride to Cheakamus Lake.
+subtitle: A good climb / 23,6km back and forth. 
 tags: [whistler trails, bike trails, enduro, chekaumus lake, garibaldi national park]
 bigimg: ./assets/img/cheakamuslake/20200527_174444.jpg
 
@@ -28,7 +28,7 @@ The headtrail begins south of Whistler and is approx. 11kms and mostly uphill.
 ## _Map
 {% include leaflet.html leaflet_tile="OpenStreetMap" c_layer="outdoor"%}
 
-Some photos:
+## _Some photos
 <img src="{{site.baseurl}}/assets/img/cheakamuslake/bigtrees.jpg" />
 
 <img src="{{site.baseurl}}/assets/img/cheakamuslake/pastito.jpg" />
